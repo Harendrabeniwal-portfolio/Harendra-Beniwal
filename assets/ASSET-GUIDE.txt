@@ -1,0 +1,14 @@
+Recommended image files:
+hero.jpg
+portrait.jpg
+project-01.jpg
+project-02.jpg
+project-03.jpg
+project-04.jpg
+
+Recommended dimensions:
+hero.jpg       2400 x 3000 or similar portrait/vertical
+portrait.jpg   1600 x 2000
+project-*.jpg  2400px+ on the long edge
+
+Compress large images to WebP/JPEG before uploading for faster loading.
